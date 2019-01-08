@@ -2,7 +2,6 @@ test-team-sync-nandita
 hello, this is nandita'a file.
 hi change is done bye rajat.
 bye nandita 
-=======
 
 hie
 this is rajat changing the text.
